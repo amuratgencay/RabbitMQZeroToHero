@@ -1,6 +1,9 @@
 
+  
 # RabbitMQZeroToHero
-RabbitMQ Examples
+
+#### RabbitMQ Examples
+[Medium Post for full documentation.](https://amuratgencay.medium.com/rabbitmq-zero-to-hero-14f00b0eb9cb)
 
 #### **Simple Queue Clock Example**
 ![](https://cdn-images-1.medium.com/max/800/1*7StJBuZOeO2oAdydMCee_w.png)
